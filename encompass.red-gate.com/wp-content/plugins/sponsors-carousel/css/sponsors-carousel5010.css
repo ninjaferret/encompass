@@ -1,0 +1,62 @@
+.sponsors_carousel_wrapper {
+    position: relative;
+    overflow: hidden;
+}
+
+.sponsors_carousel {
+    position: relative;
+    overflow: hidden;
+    margin: 0 30px;
+}
+
+.sponsors_carousel ul {
+    width: 20000em;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sponsors_carousel li {
+    float: left;
+    list-style: none;
+}
+.sponsors_carousel li a,
+.sponsors_carousel li a:hover,
+.sponsors_carousel li a:active,
+.sponsors_carousel li a:focus
+{
+    text-decoration:none;
+    -webkit-box-shadow:none;
+    box-shadow: none;
+}
+.sponsors_carousel li img{
+    -webkit-box-shadow:none;
+    box-shadow: none;
+    -khtml-user-select: none;
+    -o-user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+.entry .entry-content a.sponsors_carousel-control,
+.sponsors_carousel-control {
+    position:absolute;
+    text-decoration:none;
+    background:white;
+    -webkit-box-shadow:none!important;
+    box-shadow: none!important;
+    border-radius:12px;
+    box-sizing:border-box;
+    width:24px;
+    height:24px;
+    text-align:center;
+    padding-top:1px;
+    border: solid 1px gray;
+}
+.sponsors_carousel-control-prev {
+    left:3px;
+}
+.sponsors_carousel-control-next {
+    right:3px;
+}

@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+encompass.red-gate.com	TRUE	/	FALSE	1999999999	wordpress_clef_state	rkjz9Cs21vAiViPADw2v93mw
+encompassnetwork.org.uk	TRUE	/	FALSE	1999999999	DYNSRV	lin-10-170-0-232
+encompassnetwork.org.uk	TRUE	/	FALSE	1999999999	wordpress_clef_state	X6gWC6e5OXQpJQnlRiQQzypC
+www.joh.cam.ac.uk	TRUE	/	FALSE	1999999999	SimpleSAMLSessionID	cce2d749e829f93f8d47d500a1b5dd34
+www.joh.cam.ac.uk	TRUE	/	FALSE	1999999999	simplesamlphp_auth_returnto	https://www.joh.cam.ac.uk/homeselect
+.speedybooker.com	TRUE	/	FALSE	1999999999	__cfduid	d756257a9d9c514643426479872d423cd1578496259
+www.speedybooker.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
